@@ -9,7 +9,7 @@
 
 OR<br/>
 
-You Can Clone It Using The Link:- https://github.com/shubham13101996/Boson_WeatherApp_Assessment.git
+You Can Clone It Using The Link:- (https://github.com/shubham13101996/Mirrar_Weather_App)
 
 ## Library Used
 
