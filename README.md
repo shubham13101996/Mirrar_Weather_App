@@ -21,7 +21,8 @@ To install Axios :- npm i axios <br/>
 
 To install dayjs :- npm i dayjs
 
-![Alt text](<Screenshot (163).png>)
+![Screenshot (163)](https://github.com/shubham13101996/Mirrar_Weather_App/assets/121822895/5b04e5b7-0262-42c2-8f15-84e73c4d3b8e)
+
 
 # Getting Started with Create React App
 
